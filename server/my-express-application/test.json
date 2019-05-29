@@ -1,0 +1,77 @@
+{
+    "abelmosk": {
+      "text": "abelmosk",
+      "tags": {
+        "SPICE_HERB": 1
+      }
+    },
+    "absinthe wormwood": {
+      "text": "absinthe wormwood",
+      "tags": {
+        "SPICE_HERB": 1
+      }
+    },
+    "scup": {
+        "text": "scup",
+        "tags": {
+          "FIN": 1,
+          "FISH": 1
+        }
+    },
+    "seabass": {
+      "text": "seabass",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "seatrout": {
+      "text": "seatrout",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "shad": {
+      "text": "shad",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "shark": {
+      "text": "shark",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "sheepshead": {
+      "text": "sheepshead",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "skipjack": {
+      "text": "skipjack",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "smelt": {
+      "text": "smelt",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    },
+    "snapper": {
+      "text": "snapper",
+      "tags": {
+        "FIN": 1,
+        "FISH": 1
+      }
+    }
+}
